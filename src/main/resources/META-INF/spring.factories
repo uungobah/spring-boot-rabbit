@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.uun.gobah.springbootrabbit.rest.RestAutoConfiguration,\
+  com.uun.gobah.springbootrabbit.outbound.OutboundRabbitAutoConfiguration
